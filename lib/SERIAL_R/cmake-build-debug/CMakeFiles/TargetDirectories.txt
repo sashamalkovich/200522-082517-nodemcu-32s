@@ -1,0 +1,8 @@
+/Users/macbook/CLionProjects/SERIAL_R/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbook/CLionProjects/SERIAL_R/cmake-build-debug/CMakeFiles/SERIAL_R-burn.dir
+/Users/macbook/CLionProjects/SERIAL_R/cmake-build-debug/CMakeFiles/mega_CORE.dir
+/Users/macbook/CLionProjects/SERIAL_R/cmake-build-debug/CMakeFiles/SERIAL_R.dir
+/Users/macbook/CLionProjects/SERIAL_R/cmake-build-debug/CMakeFiles/SERIAL_R-upload.dir
+/Users/macbook/CLionProjects/SERIAL_R/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/macbook/CLionProjects/SERIAL_R/cmake-build-debug/CMakeFiles/upload.dir
+/Users/macbook/CLionProjects/SERIAL_R/cmake-build-debug/CMakeFiles/SERIAL_R-size.dir

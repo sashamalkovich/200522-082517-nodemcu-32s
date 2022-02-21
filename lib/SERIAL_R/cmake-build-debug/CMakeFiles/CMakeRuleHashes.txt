@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+6c32721be2279e0342356545f5f075eb CMakeFiles/SERIAL_R-burn
+26fe9944a42319455dcd9b5fbdaec0fa CMakeFiles/SERIAL_R-size
+9f76339ec6f9dc734ed1d7e38fc852f4 CMakeFiles/SERIAL_R-upload
