@@ -12,7 +12,6 @@ Leds::Leds()
     _timer = millis();
     pat = 0;
     vlxValue = 0;
-    //pCtrl = sens;
 }
 
 Leds::~Leds() = default;
